@@ -1,7 +1,6 @@
-Documentation
+The Yeet Documentation
 =============
 
-* [caramell.](./intro.md)
 * Overview - What up here?
     * [Intro](./intro.md)
 * Paperplane
